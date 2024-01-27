@@ -6,7 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Devloper)](https://git.io/typing-svg)
+<p align="center"> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Devloper)](https://git.io/typing-svg)
+</p>
 
 - 🏢 Frontend Developer graduated from Menofia University.
 - 👩‍💻 As a software developer, I'm constantly learning and exploring new technologies to improve my skills.
