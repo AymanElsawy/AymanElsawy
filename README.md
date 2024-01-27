@@ -13,7 +13,7 @@
 - 🏢 Frontend Developer graduated from Menofia University.
 - 👩‍💻 As a software developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular.
-- 👩‍💻 Check out my portfolio at [https://github.com/AymanElsawy](https://github.com/AymanElsawy) to see some of the projects I've worked on.
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
