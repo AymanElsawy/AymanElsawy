@@ -10,7 +10,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 Frontend Developer graduated from Menofia University.
+- 🏢 Frontend Developer At Banque Misr.
+- Graduated from faculty of computer and information Menofia University.
 - 👩‍💻 As a software developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular.
 
